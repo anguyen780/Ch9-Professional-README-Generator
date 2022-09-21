@@ -3,7 +3,7 @@
 function renderLicenseBadge(license) {
   let badge = ''
   if(license != 'None') {
-    badge = `![License Badge](https://shields.io/badge/license-${license}-green)`;
+    badge = `![License Badge](https://shields.io/badge/license-${license}-blue)`;
   }
 
   return badge;
@@ -14,13 +14,13 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   switch(license) {
     case 'MIT':
-      return "https://www.mit.edu/~amini/LICENSE.md"
+      return "[License](https://www.mit.edu/~amini/LICENSE.md)"
       break;
     case 'ISC':
-      return "https://www.isc.org/licenses/"
+      return "[License](https://www.isc.org/licenses/)"
       break;
     case 'zLib':
-      return "https://www.zlib.net/zlib_license.html"
+      return "[License](https://www.zlib.net/zlib_license.html)"
       default: ''
   }
   
@@ -44,17 +44,17 @@ ${description}
 
 ## Table of Contents
 
--[Installation](#installation)
+[Installation](#installation)
 
--[Usage](#usage)
+[Usage](#usage)
 
--[Contributors](#contributors)
+[Contributors](#contributors)
 
--[Testing](#testing)
+[Testing](#testing)
 
--[License](#license)
+[License](#license)
 
--[Contact Me](#contact-me)
+[Contact Me](#contact-me)
 
 ## Installation
 

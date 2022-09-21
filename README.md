@@ -6,17 +6,17 @@ a
 
 ## Table of Contents
 
--[Installation](#installation)
+[Installation](#installation)
 
--[Usage](#usage)
+[Usage](#usage)
 
--[Contributors](#contributors)
+[Contributors](#contributors)
 
--[Testing](#testing)
+[Testing](#testing)
 
--[License](#license)
+[License](#license)
 
--[Contact Me](#contact-me)
+[Contact Me](#contact-me)
 
 ## Installation
 
@@ -32,17 +32,17 @@ a
 
 ## Testing
 
-
+a
 
 ## License
 
-![License Badge](https://shields.io/badge/license-MIT-green)
+![License Badge](https://shields.io/badge/license-zLib-blue)
 
-For more information please visit https://www.mit.edu/~amini/LICENSE.md
+For more information please visit [License](https://www.zlib.net/zlib_license.html)
 
 ## Contact Me
 
-[Github](https://github.com/)
+[Github](https://github.com/a)
 
-Email: 
+Email: a
 
