@@ -24,7 +24,7 @@ Input the following line in your integrated terminal: node i inquirer@8.2.4
 
 ## Usage
 
-[Demo Video](https://drive.google.com/file/d/1XvbF6pkokBJTG_CzdLMA7IW9cuJFNcku/view)
+![Demo](./assets/README_DEMO.gif)
 
 ## Contributors
 
