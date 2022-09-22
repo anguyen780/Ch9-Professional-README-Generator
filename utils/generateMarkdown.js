@@ -54,7 +54,7 @@ ${description}
 
 [License](#license)
 
-[Contact Me](#contact-me)
+[Questions](#questions)
 
 ## Installation
 
@@ -72,25 +72,23 @@ ${contributors}
 
 ${testInstructions}
 
+## Questions
+
+[Github](https://github.com/${githubName})
+
+Please contact me at at ${email} for additional questions!
+
+---
+
 ## License
 
 ${renderLicenseBadge(license)}
 
 ${renderLicenseSection(license)}
 
-## Contact Me
-
-[Github](https://github.com/${githubName})
-
-Email: ${email}
-
 `;
 }
 
 module.exports = generateMarkdown;
 
-// [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-// [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-
-// [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib)

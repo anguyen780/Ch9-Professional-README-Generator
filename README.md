@@ -1,8 +1,8 @@
-# a
+# Project Name
   
 ## Description
 
-a
+Some description
 
 ## Table of Contents
 
@@ -16,33 +16,35 @@ a
 
 [License](#license)
 
-[Contact Me](#contact-me)
+[Questions](#questions)
 
 ## Installation
 
-a
+Install instructions 
 
 ## Usage
 
-a
+Usage
 
 ## Contributors
 
-a
+Contributors
 
 ## Testing
 
-a
+test instructions
+
+## Questions
+
+[Github](https://github.com/anguyen780)
+
+Please contact me at at anguyen780@gmail.com for additional questions!
+
+---
 
 ## License
 
-![License Badge](https://shields.io/badge/license-zLib-blue)
+![License Badge](https://shields.io/badge/license-MIT-blue)
 
-For more information please visit [License](https://www.zlib.net/zlib_license.html)
-
-## Contact Me
-
-[Github](https://github.com/a)
-
-Email: a
+For more information please visit [License](https://www.mit.edu/~amini/LICENSE.md)
 
